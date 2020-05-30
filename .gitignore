@@ -1,0 +1,14 @@
+karno*.cmp
+karno*.bak
+karno*.net
+*-cache.lib
+fp-lib-table
+fp-info-cache
+*.kicad_pcb-bak
+*.ai
+*.csv
+*.xml
+*.dwg
+*.dxf
+*.ods
+*.ini
