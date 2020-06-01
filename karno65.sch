@@ -608,7 +608,7 @@ Wire Wire Line
 Wire Wire Line
 	2000 7250 2050 7250
 Text Label 2050 7050 0    50   ~ 0
-COL4
+COL3
 Text Label 2050 7150 0    50   ~ 0
 COL2
 Text Label 2050 7250 0    50   ~ 0
