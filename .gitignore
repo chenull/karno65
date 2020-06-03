@@ -9,6 +9,5 @@ fp-info-cache
 *.csv
 *.xml
 *.dwg
-*.dxf
 *.ods
 *.ini
